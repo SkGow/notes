@@ -1,0 +1,7 @@
+I found this guy with this cool open source project
+---https://github.com/conorpp/u2f-zero
+
+---I found his lecture resources very helpful while studying about FPGA.
+http://rijndael.ece.vt.edu/schaum/slides/ddii/lecture14.pdf
+
+---
