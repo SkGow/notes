@@ -4,4 +4,6 @@ I found this guy with this cool open source project
 ---I found his lecture resources very helpful while studying about FPGA.
 http://rijndael.ece.vt.edu/schaum/slides/ddii/lecture14.pdf
 
----
+---Worth looking at 
+-- http://www.ece.utah.edu/~kalla/
+especially the ECE3710. 
